@@ -1,0 +1,23 @@
+{
+  "name": "galxa",
+  "version": "1.0.0",
+  "description": "A simple Galaxy Simulation implemented in JavaScript using Sarata.js as a dependency.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorlIoll/galxa"
+  },
+  "keywords": [
+    "galaxy",
+    "simulation",
+    "javascript"
+  ],
+  "author": "gorlIoll",
+  "license": "MIT",
+  "dependencies": {
+    "sarata": "^1.0.0"
+  }
+}
